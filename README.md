@@ -2,7 +2,7 @@
 Firmware upgrades Over The Ait (FOTA) written in MicroPython for fun!
 
 ## Motivation
-In my journey of building home automation systems and IoT prototypes, one thing is clear—firmware updates should be effortless and wireless.
+In my journey of building home automation systems and IoT prototypes, one thing is clear - firmware updates should be effortless and wireless.
 Over-The-Air (FOTA) updates eliminate the need for physical connections, making device management smarter and more efficient.
 
 With this project, we unlock a key feature: `automated firmware upgrades with just a few simple steps - no manual intervention required!`.
